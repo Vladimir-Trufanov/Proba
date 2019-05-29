@@ -1,0 +1,111 @@
+[Config]
+Compilator.SaveAll=0
+Compilator.Capture=0
+Compilator.CompileOnBackground=0
+Compilator.ProgSaveAll=0
+Compilator.ProgRunSelection=0
+Compilator.LogType=0
+DefaultDir=C:\Webservers\Proba\www
+DefaultCP=0
+LogtoEnd=1
+DontOpen=0
+AbsolutePath=0
+FileFormat=0
+ProjectFilesOnly=0
+HTServer=localhost
+Extensions=*.*
+[Project tree]
+Proba
+	+www
+		-_AniPureCheck
+			-css
+				www\_AniPureCheck\css\style.css
+			www\_AniPureCheck\animated-pure-css-checkbox-codepen-challenge240818.zip
+			www\_AniPureCheck\index.html
+			www\_AniPureCheck\license.txt
+			www\_AniPureCheck\README.txt
+		-_DayFollow
+			-css
+				www\_DayFollow\css\style.css
+			-js
+				www\_DayFollow\js\index.js
+			www\_DayFollow\index.html
+			www\_DayFollow\javascript30-day-22-follow-along-links310818.zip
+			www\_DayFollow\license.txt
+			www\_DayFollow\README.txt
+		-_InterSpooky
+			-css
+				www\_InterSpooky\css\style.css
+			-js
+				www\_InterSpooky\js\index.js
+			www\_InterSpooky\index.html
+			www\_InterSpooky\interactive-spooky-login-form091018.zip
+			www\_InterSpooky\license.txt
+			www\_InterSpooky\README.txt
+		-_LoadPureCSS
+			-css
+				www\_LoadPureCSS\css\style.css
+			www\_LoadPureCSS\css-loader-purecss-loader131018.zip
+			www\_LoadPureCSS\index.html
+			www\_LoadPureCSS\license.txt
+			www\_LoadPureCSS\README.txt
+		-_MenuIconAnime
+			-css
+				www\_MenuIconAnime\css\style.css
+			www\_MenuIconAnime\css-menu-icon-animation-know-your-menu250618.zip
+			www\_MenuIconAnime\index.html
+			www\_MenuIconAnime\license.txt
+			www\_MenuIconAnime\README.txt
+		-_OverNaviAnime
+			-css
+				www\_OverNaviAnime\css\style.css
+			-js
+				www\_OverNaviAnime\js\index.js
+			www\_OverNaviAnime\css-overlay-navigation-animation270218.zip
+			www\_OverNaviAnime\index.html
+			www\_OverNaviAnime\license.txt
+			www\_OverNaviAnime\README.txt
+		-_PencilPaper
+			-css
+				www\_PencilPaper\css\style.css
+			-js
+				www\_PencilPaper\js\index.js
+			www\_PencilPaper\index.html
+			www\_PencilPaper\license.txt
+			www\_PencilPaper\pencil-and-paper-checkboxes050918.zip
+			www\_PencilPaper\README.txt
+		-_SimpliCity
+			-css
+				www\_SimpliCity\css\style.css
+			-js
+				www\_SimpliCity\js\index.js
+			www\_SimpliCity\index.html
+			www\_SimpliCity\license.txt
+			www\_SimpliCity\README.txt
+			www\_SimpliCity\simplicity280918.zip
+		-_WhipperSnapper
+			-css
+				www\_WhipperSnapper\css\style.css
+			-js
+				www\_WhipperSnapper\js\index.js
+			www\_WhipperSnapper\index.html
+			www\_WhipperSnapper\license.txt
+			www\_WhipperSnapper\README.txt
+			www\_WhipperSnapper\whipper-snapper190618.zip
+		-css
+			www\css\style.css
+		-js
+			www\js\index.js
+		www\index.html
+		www\license.txt
+		www\README.txt
+		www\sticky-navigation-menu-with-smooth-scrolling170218.zip
+[Open project files]
+0=www\index.html
+[Selected Project Files]
+Main=
+Selected=www\index.html
+[www\index.html]
+TopLine=75
+Caret=20,90
+Mark1=1,43
